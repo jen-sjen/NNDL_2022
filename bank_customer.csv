@@ -22,7 +22,7 @@ RowNumber,CustomerId,Surname,CreditScore,Geography,Gender,Age,Tenure,Balance,Num
 21,15577657,McDonald,732,France,Male,41,8,0,2,1,1,170886.17,0
 22,15597945,Dellucci,636,Spain,Female,32,8,0,2,1,0,138555.46,0
 23,15699309,Gerasimov,510,Spain,Female,38,4,0,1,1,0,118913.53,1
-24,15725737,Mosman,669,France,Male,46,3,0,2,0,1,8487.75,0
+24,15725737,Mosman,669,France,Male,46,3,0,2,0,1,8487.75,0 
 25,15625047,Yen,846,France,Female,38,5,0,1,1,1,187616.16,0
 26,15738191,Maclean,577,France,Male,25,3,0,2,0,1,124508.29,0
 27,15736816,Young,756,Germany,Male,36,2,136815.64,1,1,1,170041.95,0
